@@ -1,3 +1,8 @@
+/* 
+This is a code file obtained on attending the SAS classes conducted by Scott Young's classes on SAS
+*/
+
+
 	
 LIBNAME TrackBMI 'C:\Users\vvrsk\OneDrive\Fall 2016\SAS-Workshop\Repeated Measures\Longitudinal_Teen_BMI_Study.xls' ;
 DATA work.TeenBMI;

@@ -5,7 +5,7 @@
 /*library statement*/
 *	Note: adjust this as necessary;
 
-libname storage 'C:\Users\kim\Documents\test\IDS462\Fall 2016\Classes\C2\SAS';
+libname storage 'C:\Users\vvrsk\OneDrive\Fall 2016\IDS462\New folder';
 
 /*Check the data*/
 proc contents data=storage.dmefzip;

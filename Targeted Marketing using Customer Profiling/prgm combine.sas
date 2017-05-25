@@ -29,6 +29,6 @@ title;
 /*Output the data*/
 **** create csv file;
 proc export data=storage.branch_fi_comp_census 
-	outfile='C:\Users\kim\Documents\test\IDS462\Fall 2016\Classes\C2\out_branch_census.csv' 
+	outfile='C:\Users\vvrsk\OneDrive\Fall 2016\IDS462\New folder\out_branch_census.csv' 
 	dbms=csv replace;
 run;
